@@ -1,0 +1,21 @@
+#pics-container {
+    
+    width: 600px;
+    height: fit-content;    
+}
+/* 
+# - selects an id
+. - selects a class
+*/
+.pics {
+    
+    width: 400px;
+    height: 400px;
+    display: none; 
+}
+#button-container{
+    font-size: medium;
+    border-radius: 25px;
+    text-align: center  ;
+    
+}
